@@ -4,3 +4,4 @@ class income
   self.source = source
   self.amount = amount
   self.frequency = frequency
+Morgan
